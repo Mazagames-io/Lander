@@ -1,0 +1,6 @@
+{
+  "name": "Planet Lander",
+  "description": "Navigate procedurally generated worlds, manage fuel consumption, select difficulties, upgrade your spacecraft, and unlock achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
